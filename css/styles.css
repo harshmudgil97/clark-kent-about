@@ -1,0 +1,169 @@
+body {
+  font-family: 'Baloo Bhaina 2', sans-serif;
+  text-align: center;
+  margin: 0;
+  color: #40514E;
+  line-height: 2;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 4rem;
+  margin: 0;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Prompt', sans-serif;
+  color: #66BFBF;
+  font-size: 2rem;
+}
+
+#top-heading {
+  margin: 0;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-family: 'Prompt', sans-serif;
+  color: #11999E;
+}
+
+.building {
+  width: 35rem;
+  padding-top: 100px;
+  color: #11999E;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 150px;
+  padding-bottom: 20px;
+  background-color: #E4F9F5;
+}
+
+.bottom-cloud {
+  left: 17.5%;
+  bottom: 43%;
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 10%;
+  right: 20%;
+}
+
+.profile-row {
+  width: 50%;
+  padding-top: 80px;
+  margin: 0 auto 0 auto;
+}
+
+.disp-pic {
+  width: 200px;
+}
+
+hr {
+  border-width: 7px;
+  border-style: none none dotted none;
+  width: 4%;
+  border-color: #dbdbdb;
+  margin-top: 100px;
+  margin-bottom: 80px;
+}
+
+.about-row {
+  width: 50%;
+  margin: 80px auto 0 auto;
+  text-align: left;
+}
+
+#h2-about {
+  padding-bottom: 20px;
+  margin: 0;
+}
+
+.ileft {
+  float: left;
+  margin-right: 20px;
+  height: 25%;
+  width: 25%;
+}
+
+.iright {
+  float: right;
+  margin-left: 20px;
+  height: 25%;
+  width: 25%;
+}
+
+.pp {
+  display: inline-block;
+  width: 65%;
+  margin: 0;
+}
+
+.hh {
+  margin: 0;
+}
+
+.pz {
+  margin-top: 15px;
+}
+
+.btn {
+  margin-top: 20px;
+  background-color: #66BFBF;
+  border-radius: 30px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px 20px 7px 20px;
+  text-decoration: none;
+  margin-bottom: 20px;
+}
+
+.btn:hover {
+  background-color: #11999E;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 10px;
+  margin-top: 35px;
+  padding-top: 20px;
+}
+
+.linkedin {
+  width: 25px;
+}
+
+.instagram {
+  width: 25px;
+}
+
+.youtube {
+  width: 25px;
+}
+
+.bottomP {
+  font-family: monospace;
+  font-size: 0.9rem;
+  color: #EAF6F6;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+.footer {
+  padding: 25px;
+  font-size: 0.7rem;
+  margin-bottom: 0;
+  text-decoration: none;
+}
